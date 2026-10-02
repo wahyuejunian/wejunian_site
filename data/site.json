@@ -1,0 +1,43 @@
+{
+ "nama": "Wahyu Eko Junian, S.T., M.T.",
+ "jabatan": "Dosen Teknik Geofisika",
+ "institusi": "Institut Teknologi Sumatera (ITERA)",
+ "lokasi": "Lampung Selatan, Indonesia",
+ "email": "wahyu.junian@tg.itera.ac.id",
+ "foto": "assets/img/profil.jpg",
+ "tagline": "Metode elektromagnetik, pemodelan inversi, dan geofisika komputasi.",
+ "tentang": "Saya anak seorang petani yang sejak kecil bercita-cita sederhana: kembali ke tempat saya menuntut ilmu. Sejak 2023 saya mengajar di Program Studi Teknik Geofisika ITERA, almamater S-1 saya (angkatan 2016), dan kini menemani generasi penerus menapaki jalan yang sama.",
+ "minat": [
+  "Metode Elektromagnetik",
+  "Pemodelan Inversi",
+  "Geofisika Komputasi",
+  "Machine Learning"
+ ],
+ "pendidikan": [
+  {
+   "jenjang": "Magister Teknik Geofisika",
+   "tahun": "2021–2023",
+   "institusi": "Institut Teknologi Bandung",
+   "judul": "Algoritma Hibrid PSO-GWO untuk Pemodelan Inversi Satu-Dimensi Data CSAMT"
+  },
+  {
+   "jenjang": "Sarjana Teknik Geofisika",
+   "tahun": "2016–2020",
+   "institusi": "Institut Teknologi Sumatera",
+   "judul": "Identifikasi Zona Mineralisasi Emas Epitermal Sulfida Rendah dengan Geolistrik (Resistivitas & IP) dan Magnetik, Ciparay, Cibaliung"
+  }
+ ],
+ "skill": [
+  "Python",
+  "MATLAB"
+ ],
+ "tautan": {
+  "GitHub": "https://github.com/wahyuejunian",
+  "LinkedIn": "https://www.linkedin.com/in/wahyuejunian",
+  "Instagram": "https://www.instagram.com/wahyuejunian"
+ },
+ "sheets": {
+  "penelitian": "",
+  "mahasiswa": ""
+ }
+}

@@ -1,0 +1,7 @@
+[{"id":"matdas-1","nama":"Matematika Dasar I","kelompok":"TPB","deskripsi":""},
+{"id":"matdas-2","nama":"Matematika Dasar II","kelompok":"TPB","deskripsi":""},
+{"id":"geomat-1","nama":"Geomatematika I","kelompok":"Geofisika","deskripsi":"Deret, bilangan kompleks, aljabar linier, PDP, integral lipat, dan analisis vektor.","topik":[[1,1,"Pendahuluan"],[2,3,"Deret"],[4,5,"Bilangan Kompleks"],[6,7,"Aljabar Linier"],[8,8,"Ujian Tengah Semester (UTS)"],[9,10,"Persamaan Diferensial Parsial"],[11,12,"Integral Lipat"],[13,15,"Analisis Vektor"],[16,16,"Ujian Akhir Semester (UAS)"]]},
+{"id":"geomat-2","nama":"Geomatematika II","kelompok":"Geofisika","deskripsi":"Analisis Fourier, transformasi koordinat, diagonalisasi matriks, PDB dan PDP.","topik":[[1,1,"Pendahuluan"],[2,4,"Analisis Fourier"],[5,6,"Transformasi Koordinat"],[7,7,"Diagonalisasi Matriks dan Aplikasinya"],[8,8,"Ujian Tengah Semester (UTS)"],[9,12,"Persamaan Diferensial Biasa"],[13,15,"Persamaan Diferensial Parsial"],[16,16,"Ujian Akhir Semester (UAS)"]]},
+{"id":"tepot","nama":"Teori Potensial","kelompok":"Geofisika","deskripsi":""},
+{"id":"inversi","nama":"Inversi Geofisika","kelompok":"Geofisika","deskripsi":""},
+{"id":"em","nama":"Elektromagnetik Terapan","kelompok":"Geofisika","deskripsi":""}]
